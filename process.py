@@ -45,3 +45,4 @@ for row in csv.DictReader(open("urls.csv", encoding="utf-8")):
 print(f"done, failed={len(failed)}")
 if failed:
     sys.exit(1)
+# trigger build
