@@ -15,11 +15,11 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install pillow requests
-      - run: python process.py
-        continue-on-error: true
+      - run: python process.py 2>&1 | tee build.log || true
       - name: Commit images
         run: |
           git config user.name "feed-image-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add img
+          git add img build.log
+          git pull --rebase origin main || true
           git diff --cached --quiet || (git commit -m "Add square images" && git push)

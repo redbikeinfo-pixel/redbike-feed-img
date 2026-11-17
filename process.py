@@ -19,7 +19,8 @@ for row in csv.DictReader(open("urls.csv", encoding="utf-8")):
     try:
         r = None
         for attempt in range(3):
-            r = requests.get(url, headers=headers, timeout=30)
+            r = requests.get(url, headers=headers, timeout=20)
+            print("  http", r.status_code, url)
             if r.status_code == 200:
                 break
             time.sleep(2)
@@ -45,4 +46,3 @@ for row in csv.DictReader(open("urls.csv", encoding="utf-8")):
 print(f"done, failed={len(failed)}")
 if failed:
     sys.exit(1)
-# trigger build
