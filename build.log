@@ -1,157 +1,127 @@
-  http 200 https://redbike.com.ua/files/images/shop/big/425210light.jpg
-ok cube-access-ws-eaz-29-pink (1080, 649) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/401500light.jpg
-ok cube-aim-sl-29-2021 (1080, 656) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/cubeaimpro2023redbikevelomagazin-1.jpg
-ok cube-aim-race-29-2023-blacknazure (1920, 1089) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/cubeaimrace2023rebikevelomagazin-1.jpg
-ok cube-aim-race-29-2023-olivenblack (1920, 1091) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/s078602602110s001920x1920.jpg
-ok cube-analog-29-2023-flashlimenblack (1920, 1093) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/cubeaimslx2023redbike1-7.jpg
-ok cube-aim-slx-29-2023-graphite (1920, 1083) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/501500lightzoom.jpg
-ok cube-aim-sl-29-2022-graphitenmetall (2000, 1151) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/cubeaimblackblueredbikeua.jpg
-ok cube-aim-29-2023-blacknblue_F5 (1920, 1109) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/402110light.jpg
-ok cube-analog-29-2021 (1080, 671) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-reaction-c62-race-petrol-orange-1.png
-ok cube-reaction-c62-race-29-petrol-n-orange (800, 472) -> (848, 848)
-  http 200 https://redbike.com.ua/files/images/shop/big/head-cube-aim-race-2022-black-azure.jpg
-ok cube-aim-race-275-2022-blacknazure (1080, 628) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/2e48dd12dfc2dc322014954453bfa7f1.jpg
-ok cube-reaction-tm (1387, 960) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/sW_cubeaimmistygreenblackredbikeua.jpg
-ok cube-aim-29-2023-mistygreennblack (1920, 1095) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-attention-slx-29-2026-storm-n-blue-0.jpg
-ok cube-attention-slx-29-2026-storm-n-blue (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-attention-slx-29-2026-slategrey-n-black-0.jpg
-ok cube-attention-slx-29-2026-slategrey-n-black (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-pro-29-2026-slateblack-n-black-0.jpg
-ok cube-aim-pro-29-slateblack-n-black (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-nuroad-one-28-2026-grovegreen-n-black-0.jpg
-ok cube-nuroad-one-2026-grovegreen-n-black (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-reaction-pro-29-2026-goblin-n-black-0.jpg
-ok cube-reaction-pro-29-2026-goblin-n-black (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-pro-29-2026-lizard-n-black-0.jpg
-ok cube-aim-pro-29-2026-lizard-n-black (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-reaction-pro-29-2026-oldgrey-n-black-0.jpg
-ok cube-reaction-pro-29-2026-oldgreynblack (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-pro-29-2026-smaragdgrey-n-prism-0.jpg
-ok cube-aim-pro-29-smaragdgrey-n-prism (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/jk_velosiped-cube-aim-slx-29-2026-slateblack-n-black-1.jpg
-ok cube-aim-slx-29-2026-slateblack-n-black (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-nuroad-one-28-2026-ruby-n-puce-0.jpg
-ok cube-nuroad-one-2026-ruby-n-puce (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-slx-29-2026-blushrose-n-black-1.jpg
-ok cube-aim-slx-29-2026-blushrose-n-black (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/zP_velosiped-cube-aim-pro-29-2026-slateblack-n-black-0.jpg
-ok cube-aim-pro-275-2026-slateblack-n-black (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-slx-29-2026-slateblack-n-black-1.jpg
-ok cube-aim-slx-275-2026-slateblack-n-black (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-slx-29-2026-dustyolive-n-gold-0.jpg
-ok cube-aim-slx-275-2026-dustolive-n-gold (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-attention-pro-29-2026-iceblue-n-prism-0.jpg
-ok cube-attention-pro-275-2026-iceblue-n-prism (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/hP_velosiped-cube-attention-pro-29-2026-night-n-black-0.jpg
-ok cube-attention-pro-275-2026-night-n-black (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/jb_velosiped-cube-attention-slx-29-2026-slategrey-n-black-0.jpg
-ok cube-attention-slx-275-2026-slategrey-n-black (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/WX_velosiped-cube-attention-slx-29-2026-storm-n-blue-0.jpg
-ok cube-attention-slx-275-2026-storm-n-blue (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-reaction-slx-29-2026-tealgrey-n-black-0.jpg
-ok cube-reaction-slx-29-2026-tealgrey-n-black (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-reaction-slx-29-2026-metallicgrey-n-black-0.jpg
-ok cube-reaction-slx-29-2026-metallicgrey-n-black (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/425410light.jpg
-ok cube-access-ws-pro-29-2021 (1080, 690) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/416110light.jpg
-ok cube-reaction-c62-pro-29-2021_mW (1080, 632) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/eb_velosiped-cube-aim-slx-29-2026-dustyolive-n-gold-1.jpg
-ok cube-aim-slx-29-2026-dustolive-n-gold (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-attention-slx-29-2026-purplegalaxy-n-black-0.jpg
-ok cube-attention-slx-29-2026-purplegalaxy-n-black (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-pro-29-2026-greige-n-titan-0.jpg
-ok cube-aim-pro-29-greige-n-titan_J6 (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/re_velosiped-cube-attention-pro-29-2026-iceblue-n-prism-0.jpg
-ok cube-attention-pro-29-2026-iceblue-n-prism (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-attention-pro-29-2026-night-n-black-0.jpg
-ok cube-attention-pro-29-2026-night-n-black (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-reaction-c62-one-29-2027-cappuccino-n-black-1.jpg
-ok cube-reaction-c62-one-29-2027-cappuccino-n-black (1920, 1085) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-graviinii-cube-nuroad-pro-2027-taiga-n-blue-1.jpg
-ok cube-nuroad-pro-2027-taiga-n-blue-n-black (2000, 1198) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-graviinii-cube-nuroad-pro-2027-mysticpurple-n-black-1.jpg
-ok cube-nuroad-pro-2027-mysticpurple-n-black (1920, 1149) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-graviinii-cube-nuroad-ex-2027-bubblegum-n-black-1.jpg
-ok cube-nuroad-ex-2027-bubblegum-n-black (1920, 1186) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-graviinii-cube-nuroad-ex-2027-oatgrey-n-black-1.jpg
-ok cube-nuroad-ex-2027-oatgrey-n-black (1920, 1152) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-graviinii-cube-nuroad-c62-one-2027-carbon-n-shiftverde-1.jpg
-ok cube-nuroad-c62-one-2027-carbon-n-shiftverde (2000, 1184) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-graviinii-cube-nuroad-c62-one-2027-hintofmint-n-green-1.jpg
-ok cube-nuroad-c62-one-2027-hintofmint-n-green (2000, 1176) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-pro-29-2027-topasblue-n-blue-1.jpg
-ok cube-aim-pro-275-2027-topasblue-n-blue (2000, 1166) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-pro-29-2027-aloegreen-n-green-1.jpg
-ok cube-aim-pro-275-2027-aloegreen-n-green (2000, 1163) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-pro-29-2027-grey-n-black-1.jpg
-ok cube-aim-pro-275-2027-grey-n-black (2000, 1152) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-pro-29-2027-topasblue-n-blue-1.jpg
-ok cube-aim-pro-29-2027-topasblue-n-blue (2000, 1166) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-pro-29-2027-grey-n-black-1.jpg
-ok cube-aim-pro-29-2027-grey-n-black (2000, 1152) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-pro-29-2027-aloegreen-n-green-1.jpg
-ok cube-aim-pro-29-2027-aloegreen-n-green (2000, 1163) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-one-29-2027-salmon-n-black-1.jpg
-ok cube-aim-one-29-2027-salmon-n-black (2000, 1149) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-one-29-2027-salmon-n-black-1.jpg
-ok cube-aim-one-275-2027-salmon-n-black (2000, 1149) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-one-29-2027-metallicwhite-n-black-1.jpg
-ok cube-aim-one-275-2027-metallicwhite-n-black (2000, 1141) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-one-molenprism1.jpg
-ok cube-aim-one-275-2027-mole-n-prism (2000, 1152) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-one-molenprism1.jpg
-ok cube-aim-one-29-2027-mole-n-prism (2000, 1152) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-one-29-2027-metallicwhite-n-black-1.jpg
-ok cube-aim-one-29-2027-metallicwhite-n-black (2000, 1141) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-slx-29-2027-slateblack-n-chrome-1.jpg
-ok cube-aim-slx-29-2027-slateblack-n-chrome (2000, 1152) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-slx-29-2027-shiftverde-n-chrome-1.jpg
-ok cube-aim-slx-29-2027-shiftverde-n-chrome (2000, 1177) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-slx-29-2027-rustyrose-n-peach-1.jpg
-ok cube-aim-slx-29-2027-rustyrose-n-peach (2000, 1192) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-slt-29-2027-soot-n-black-1.jpg
-ok cube-aim-slt-29-2027-soot-n-black (1920, 1114) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-slt-29-2027-mysticpurple-n-black-1.jpg
-ok cube-aim-slt-29-2027-mysticpurple-n-black (2000, 1169) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-slt-29-2027-cappuccino-n-black-1.jpg
-ok cube-aim-slt-29-2027-cappuccino-n-black (1920, 1104) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-reaction-pro-29-2027-platinum-n-black-1.jpg
-ok cube-reaction-pro-29-2027-platinum-n-black (2000, 1130) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-reaction-pro-29-2027-emerald-n-blue-1.jpg
-ok cube-reaction-pro-29-2027-emerald-n-blue (2000, 1145) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-reaction-pro-29-2027-fuchsia-n-black-1.jpg
-ok cube-reaction-pro-29-2027-fuchsia-n-black (2000, 1152) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-reaction-c62-one-29-2027-surfblue-n-black-1.jpg
-ok cube-reaction-c62-one-29-2027-surfblue-n-black (2000, 1135) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/32314000.jpg
-ok cube-acid-240-actionteam_M9 (1800, 1094) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-one-29-2026-smoke-n-black-0.jpg
-ok cube-aim-one-29-2026-smoke-n-black (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-one-29-2026-sundowner-n-black-0.jpg
-ok cube-aim-one-29-2026-sundowner-n-black (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-aim-one-29-2026-marlinblue-n-reflex-0.jpg
-ok cube-aim-one-29-2026-lightpurple-n-chrome (1920, 1080) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/401310light.jpg
-ok cube-aim-pro-29-greennblack (1080, 643) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/401300light.jpg
-ok cube-aim-pro-29-blacknblue (1080, 652) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/401450light.jpg
-ok cube-aim-ex-29-blacknyellow (1080, 643) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/s078625601310s001920x1920.jpg
-ok cube-aim-pro-29-shiftverdenblack (1920, 1118) -> (1000, 1000)
-  http 200 https://redbike.com.ua/files/images/shop/big/velosiped-cube-acid-240-disc-2026-galactic-n-cyan-0.jpg
-ok cube-acid-240-disc-2026-galactic-n-cyan (1920, 1080) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/f86ddbb4df315076ee1927c94dfd8d04.jpg
+ok merida-bignine-20-2x-matt-anthracite_Fc (1920, 1170) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/ccd0d2783f176f727d18d5031023efae.jpg
+ok merida-bignine-limited-glossy-race-red-2023 (1920, 1080) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/720bd5dc76ce4094e524f9533f830dc1.jpg
+ok merida-bignine-200-matt-blue-2023 (1920, 1185) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/1786fa5b31cc07814497889c2d0e6e60.jpg
+ok merida-bignine-200-purple-2023 (1920, 1175) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/7a22886555b6fca53b50c06d33ff56a7.jpg
+ok merida-bignine-500-race-red-2023 (1920, 1131) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/10ced4ae4229cbb7d7a8a13012b5d0b2.jpg
+ok merida-silex-300-28-glossy-black-2023 (1920, 1129) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/fff.jpg
+ok merida-silex-700-glossy-red-2023 (1920, 1150) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/51ea4db2ba638dfc02ddb535f88ca506.jpg
+ok merida-silex-200-orange-2023 (1920, 1103) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/slx.jpg
+ok merida-bignine-slx-edition-anthracite-2023 (1920, 1100) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/merida-big-nine-500-redbikecatalog.jpg
+ok merida-bignine-500-2023-black-anthracite (600, 369) -> (636, 636)
+  http 200 https://redbike.com.ua/files/images/shop/big/merida-big-nine-500-redbikecatalog.jpg
+ok merida-bignine-500-2021-black-anthracite (600, 369) -> (636, 636)
+  http 200 https://redbike.com.ua/files/images/shop/big/3ert2ef.jpg
+ok merida-silex-700-glossy-anthracite-2023 (1920, 1144) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/4635.jpg
+ok merida-silex-200-glossy-black-2023 (1920, 1118) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/14e9072ea3c783bf5b758ce959837216.jpg
+ok merida-bignine-400-silk-fall-green-2023 (1920, 1107) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/merida-big-nine-400-green-redbike-catalog.jpg
+ok 29-merida-bignine-400-2022-green-black (1024, 626) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/bignine200anthblkmoc221.jpg
+ok 29-merida-bignine-200-black-anthracite (2000, 1243) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/27963dc93e523068e6bd41f9093ddaa8.jpg
+ok merida-matts-770-orange (1920, 1191) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/1536910a535c4218614b72d5e4b8dcfc.jpg
+ok merida-matts-780-matt-grey (1920, 1179) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/3e247ed26c13668bca735b87df6ce7ce.jpg
+ok merida-matts-760-2x-matt-dark-blue-2023 (1920, 1147) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/e1972f183d99816183752ed72cfa2fe3.jpg
+ok merida-matts-760-2x-2022-matt-cool-gray (1920, 1199) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/0495ae9f068c831b186415b737d59203.jpg
+ok 29-merida-bignine-100-2x-2022-anthracite_wD (1615, 1000) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/bignine-100-2x-1.jpg
+ok merida-bignine-100-2x-matt-green-2023 (2000, 1238) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/0495ae9f068c831b186415b737d59203.jpg
+ok merida-bigseven-100-2x-anthracite-2021 (1615, 1000) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/silex400crmprpmy2022.jpg
+ok merida-silex-400-champagne-purple (2000, 1225) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/big-seven-15-athracite-redbike-catalog.jpg
+ok merida-bigseven-15-dark-silver (600, 366) -> (636, 636)
+  http 200 https://redbike.com.ua/files/images/shop/big/0d87fb0e6823c9665e18c303a19d6b20.jpg
+ok merida-bignine-15-matt-anthracite-2023 (1920, 1127) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/big-seven-15-blue-redbike-catalog.jpg
+ok merida-bignine-15-blue-2023 (600, 372) -> (636, 636)
+  http 200 https://redbike.com.ua/files/images/shop/big/3c445d4716cfad86bd1d6e6a1dc8eff9.jpg
+ok merida-bignine-15-red-orange-2023 (1920, 1175) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/642ec7d96b5d33964760a17cf9ae1bc9.jpg
+ok merida-bignine-20-2022-matt-fog-green (1920, 1170) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/112611.jpg
+ok merida-bignine-20-blue-teal-2023_or (1064, 619) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/big7-bignine-2039675pic.jpg
+ok merida-bignine-20-matt-race-red-2023 (1200, 733) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/30a256d890ef9330458bfe9a9c5e8aea.jpg
+ok merida-bignine-20-white-purple-2023 (1920, 1181) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/bigseven20-tellimmy2021-600x368.jpg
+ok merida-big-seven-20-2022-blue-teal (600, 368) -> (636, 636)
+  http 200 https://redbike.com.ua/files/images/shop/big/sdsd.jpg
+ok merida-crossway-20-d-2023-black (1920, 1152) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/66c08875a0811ea5f1be943b6579e797.jpg
+ok merida-crossway-20-d-2023-green (1920, 1206) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/dada.jpg
+ok merida-crossway-20-d-2023-matt-burgundy (1920, 1191) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/260811100.jpg
+ok merida-crossway-20-d-lady-moss-green (1000, 618) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/matths-6-10-v-blie-redbike-catalog.jpg
+ok merida-matts-610-v-blue_Zr (1920, 1188) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/7-30.jpg
+ok 275-merida-matths-730--blue_aS (2000, 1254) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/770.jpg
+ok 275-merida-matths-770-2022-matt-cool-grey (600, 372) -> (636, 636)
+  http 200 https://redbike.com.ua/files/images/shop/big/6110885917-600x376.jpg
+ok 275-merida-matts-730-2022-matt-cool-gray (600, 376) -> (636, 636)
+  http 200 https://redbike.com.ua/files/images/shop/big/marin-bobcat-trail-3-black-redbike.jpg
+ok 29-marin-bobcat-trail-3-black_NS (1798, 1022) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/373b754830496122b4934185216b3c2f.jpg
+ok 29-marin-bobcat-trail-3-blue-2022 (1024, 593) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/JC_373b754830496122b4934185216b3c2f.jpg
+ok 275-marin-bobcat-trail-3-blue-2022 (1024, 593) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/b215b8fe-0a54-11ec-9822-a629dfaf9bea28e8aa6f-2aa0-11ec-9822-a629dfaf9bea.jpeg
+ok 29-marin-bobcat-trail-4-tan-2022 (2000, 1085) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/b215b8fa-0a54-11ec-9822-a629dfaf9bea2eeb8705-2aa0-11ec-9822-a629dfaf9bea.jpeg
+ok 29-marin-bobcat-trail-4-silver-2022 (2000, 1071) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/cyclone-gtx-1024x649.jpg
+ok cyclone-gtx-green (1024, 649) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/c189bfaaf729034fec655bf24c7f7e49.jpg
+ok cyclone-sx-29 (1024, 610) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/apollo-neo-boys-600x400.jpg
+ok 16-apollo-neo-boys (600, 400) -> (636, 636)
+  http 200 https://redbike.com.ua/files/images/shop/big/productimage10837893-1000x667.jpg
+ok 16-apollo-neo-boys_H2 (1000, 667) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/24-black.jpg
+ok 24-apollo-neo-7s-boys-CL (1000, 534) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/39255.png
+ok giant-xtc-jr-24 (853, 507) -> (904, 904)
+  http 200 https://redbike.com.ua/files/images/shop/big/bigliv-adore-2013615pic.jpg
+ok liv-giant-adore-20 (800, 495) -> (848, 848)
+  http 200 https://redbike.com.ua/files/images/shop/big/ufilesstore37125161.jpg
+ok giant-animator-16-2018 (650, 380) -> (689, 689)
+  http 200 https://redbike.com.ua/files/images/shop/big/big1-pre36929pic.jpg
+ok begovel-giant-pre-boy (1200, 759) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/pregirlspink.jpg
+ok giant-pink-pre (1333, 1000) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/silex400blublkmoc221.jpg
+ok merida-silex-400-matt-blue (2000, 1254) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/A1_111111.jpg
+ok merida-silex-8000-e-matt-anthracite-glossy-black_2h (1920, 1186) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/silex400blkblkmoc221.jpg
+ok merida-silex-400-matt-black (2000, 1254) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/matths-6-10-v-green-redbike-catalog.jpg
+ok merida-matts-610-v-green_Gq (1024, 637) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/wdwadwa.jpg
+ok merida-bignine-slx-edition-green-silver-2023 (1920, 1100) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/3704109f6ef96b457985ba5a9ee1dc2f.jpg
+ok merida-silex-300-28-dark-red-2023 (1920, 1099) -> (1000, 1000)
+  http 200 https://redbike.com.ua/files/images/shop/big/big-seven-15-blue-redbike-catalog.jpg
+ok merida-bigseven-15-2022-blue (600, 372) -> (636, 636)
 done, failed=0
